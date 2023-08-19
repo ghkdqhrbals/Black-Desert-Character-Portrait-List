@@ -8,8 +8,9 @@ We made this repository for sharing portrait of characters.
 * **Boss**
 * **Character class**
 
-## Where to share portraits?
+## How to share portraits?
 * Path : `{Category}` / `{Title}` / *`Files`
+> need to create Readme.md in `{Category}` / `{Title}` that shows every portraits
 
 ## Commit Rules
 * [dev] `{topics}`
