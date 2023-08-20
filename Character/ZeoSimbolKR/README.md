@@ -1,3 +1,3 @@
-# ZeoSimbolEN
+# ZeoSimbolKR
 
 ![./preview.png]

@@ -1,3 +1,3 @@
 # Real World Boss
 
-![images](./view.png)
+![images](./preview.png)

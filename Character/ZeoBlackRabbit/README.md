@@ -1,3 +1,3 @@
 # Zeo Black Rabbit
 
-![img](./view.jpg)
+![img](./preview.jpg)
