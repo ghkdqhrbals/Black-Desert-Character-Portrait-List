@@ -1,4 +1,4 @@
-# Character Portraits
+# Boss Portraits
 
 ## 한국어 초상화
 
