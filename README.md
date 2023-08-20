@@ -48,7 +48,28 @@ Check posting below!
 * [검은사막 캐릭터선택창 초상화 변경방법 및 공유!](https://www.kr.playblackdesert.com/ko-KR/Forum/ForumTopic/Detail?_topicNo=50082&_opinionNo=50080)
 * [Custom Character Portraits](https://www.blackdesertfoundry.com/custom-character-portraits/)
 
-## 4. How to share portraits?
+## 4. How to download portraits?
+
+* [Step-1] Click creator name to enter folder
+
+![s1](./asset/image/step1.png)
+
+* [Step-2 & 3] See preview images and if you like it, copy page link
+
+![s2](./asset/image/step2.png)
+
+* [Step-4] Enter [download site](https://download-directory.github.io), paste link and press enter
+
+> download site: [https://download-directory.github.io](https://download-directory.github.io)
+
+![s3](./asset/image/step3.png)
+
+* And download success!
+
+![s4](./asset/image/step4.png)
+
+
+## 5. How to share portraits?
 ### [method-1] Send PR!
 * path : `{Category}` / `{Title}` / *`Files`
 > need to create Readme.md in `{Category}` / `{Title}` that shows every portraits
@@ -56,6 +77,7 @@ Check posting below!
 * to : ghkdqhrbals@gmail.com
 
 
-## 5. Commit Rules
+
+## 6. Commit Rules
 * [dev] `{topics}`
 * [fix] `{issueNumber}` `{issues}`
