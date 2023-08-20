@@ -49,8 +49,12 @@ Check posting below!
 * [Custom Character Portraits](https://www.blackdesertfoundry.com/custom-character-portraits/)
 
 ## 4. How to share portraits?
-* Path : `{Category}` / `{Title}` / *`Files`
+### [method-1] Send PR!
+* path : `{Category}` / `{Title}` / *`Files`
 > need to create Readme.md in `{Category}` / `{Title}` that shows every portraits
+### [method-2] Send Email!
+* to : ghkdqhrbals@gmail.com
+
 
 ## 5. Commit Rules
 * [dev] `{topics}`
