@@ -52,21 +52,20 @@ Check posting below!
 
 * [Step-1] Click creator name to enter folder
 
-![s1](./asset/image/step1.png)
+> ![s1](./asset/image/step1.png)
 
 * [Step-2 & 3] See preview images and if you like it, copy page link
 
-![s2](./asset/image/step2.png)
+> ![s2](./asset/image/step2.png)
 
 * [Step-4] Enter [download site](https://download-directory.github.io), paste link and press enter
 
 > download site: [https://download-directory.github.io](https://download-directory.github.io)
-
-![s3](./asset/image/step3.png)
+> ![s3](./asset/image/step3.png)
 
 * And download success!
 
-![s4](./asset/image/step4.png)
+> ![s4](./asset/image/step4.png)
 
 
 ## 5. How to share portraits?
