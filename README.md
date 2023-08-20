@@ -50,29 +50,29 @@ Check posting below!
 
 ## 4. How to download portraits?
 
-* [Step-1] Click creator name to enter folder
+#### [Step-1] Click creator name to enter folder
 
 > ![s1](./asset/image/step1.png)
 
-* [Step-2 & 3] See preview images and if you like it, copy page link
+#### [Step-2 & 3] See preview images and if you like it, copy page link
 
 > ![s2](./asset/image/step2.png)
 
-* [Step-4] Enter [download site](https://download-directory.github.io), paste link and press enter
+#### [Step-4] Enter [download site](https://download-directory.github.io), paste link and press enter
 
 > download site: [https://download-directory.github.io](https://download-directory.github.io)
 > ![s3](./asset/image/step3.png)
 
-* And download success!
+#### And download successfully!
 
 > ![s4](./asset/image/step4.png)
 
 
 ## 5. How to share portraits?
-### [method-1] Send PR!
+#### [method-1] Send PR!
 * path : `{Category}` / `{Title}` / *`Files`
 > need to create Readme.md in `{Category}` / `{Title}` that shows every portraits
-### [method-2] Send Email!
+#### [method-2] Send Email!
 * to : ghkdqhrbals@gmail.com
 
 
