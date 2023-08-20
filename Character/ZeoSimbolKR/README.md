@@ -1,3 +1,3 @@
 # ZeoSimbolKR
 
-![./preview.png]
+![img](./preview.png)
