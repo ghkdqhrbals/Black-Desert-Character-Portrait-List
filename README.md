@@ -32,6 +32,7 @@ We made this repository for sharing portrait of characters.
 | Simple | **[Zeo](./Character/ZeoSimbolBigEN)** | 624 × 804 | English | 2023-01-18 | [Reference](https://www.inven.co.kr/board/black/3584/50290) |
 | Simple | **[Zeo](./Character/ZeoSimbol)** | 210 × 270 | None | 2023-01-18 | [Reference](https://www.inven.co.kr/board/black/3584/50290) |
 | Simple | **[Zeo](./Character/ZeoSimbolBig)** | 624 × 804 | None | 2023-01-18 | [Reference](https://www.inven.co.kr/board/black/3584/50290) |
+| Cute   | **[Tensie](./Character/Tansie)** |  624 × 804 | None | 2023-09-03 | [Reference](https://www.dropbox.com/sh/j3zxjtprhmnc4nh/AAB3cly7iQ1sDpXV7c4qvZSGa?dl=0) |
 
 ### 2.3 Boss
 
